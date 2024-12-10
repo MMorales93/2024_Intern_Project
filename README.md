@@ -8,6 +8,11 @@ Through correlation analysis and statistical testing, we identified several gene
 
 The scripts and data files provided in this repository detail the computational methods used to conduct the analysis, including data preprocessing, differential expression analysis, pathway enrichment analysis, and correlation analysis.
 
+## Purpose 
+
+Identify potential new biomarkers for drug response in canine osteosarcoma to aid in the discovery of new treatments for both canine and human patients.
+
+
 ## Key Findings
 
 * Olaparib: Lower expression of genes like TMEM131L, APC, and DNAJB1 was associated with increased sensitivity. Higher Interferon Alpha Response scores were linked to Olaparib sensitivity.
